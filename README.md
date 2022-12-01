@@ -5,4 +5,4 @@ Hello people,
 In this repository I will publish my solutions of advent of code for 2022 in go. 
 
 Best Regards,
-Stavros
+\n Stavros
